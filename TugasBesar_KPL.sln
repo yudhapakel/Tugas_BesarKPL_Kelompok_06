@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TugasBesar_KPL", "TugasBesar_KPL\TugasBesar_KPL.csproj", "{5948EACA-F4CE-490D-822D-5B5DF55D1841}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_KPL", "..\..\Visual Studio\API_KPL\API_KPL\API_KPL.csproj", "{0CD52BEA-E88F-B1C4-BBEA-905D66A79A07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5948EACA-F4CE-490D-822D-5B5DF55D1841}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5948EACA-F4CE-490D-822D-5B5DF55D1841}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5948EACA-F4CE-490D-822D-5B5DF55D1841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD52BEA-E88F-B1C4-BBEA-905D66A79A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD52BEA-E88F-B1C4-BBEA-905D66A79A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD52BEA-E88F-B1C4-BBEA-905D66A79A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD52BEA-E88F-B1C4-BBEA-905D66A79A07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
